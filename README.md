@@ -1,4 +1,4 @@
 # HolidayTravelVehicles
 ITCS382 minicase
 
-Minicase practice consists total classes(including main for testing system)
+Minicase practice consists 6 classes in total(including main for testing system.)
